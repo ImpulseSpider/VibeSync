@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: 'xxx',
+        token: 'MTE4NTI3NjI0OTI3MTE4NTQwOA.GVwKp2.cuiw2EVTa8PGTdNUsWMpj-nPf9gl3JPmlVmeZU',
         playing: 'by Impulse',
         global: true,
-        guild: 'xxx',
+        guild: '780815226199081023',
         ExtraMessages: false,
         loopMessage: false,
 
