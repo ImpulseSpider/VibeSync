@@ -1,8 +1,8 @@
 module.exports = {
     app: {
-        token: 'MTE4NTI3NjI0OTI3MTE4NTQwOA.GVwKp2.cuiw2EVTa8PGTdNUsWMpj-nPf9gl3JPmlVmeZU',
+        token: 'MTE4NTI3NjI0OTI3MTE4NTQwOA.GCivgE.ZUduyYiklI4-BqWGUwVl9MvWLwf6oxAniaMZMg',
         playing: 'by Impulse',
-        global: true,
+        global: false,
         guild: '780815226199081023',
         ExtraMessages: false,
         loopMessage: false,
